@@ -6,13 +6,13 @@ The idea behind this repository is to explain the SCRUM Rituals and its most com
 
 - Sprint Planning
 - Daily Meeting
-- Backlog Refinement
+- Product Backlog Refinement
 - Sprint Review
 - Retrospective
 
 ### Sprint Planning
 
-Sprint planning is a time boxed working session that lasts roughly 1 hour for every week of a sprint. In sprint planning, the entire team agrees to complete a set of product backlog items. This agreement defines the sprint backlog and is based on the team’s velocity or capacity and the length of the sprint.
+The Sprint planning is a time boxed working session that lasts roughly 1 hour for every week of a sprint. In sprint planning, the entire team agrees to complete a set of product backlog items. This agreement defines the sprint backlog and is based on the team’s velocity or capacity and the length of the sprint.
 
 #### Bad Practices
 
@@ -59,7 +59,27 @@ Each member should answer the questions: _What I did yesterday? What will I do t
 - If a Team Member usually talks too much, time box each one
 - Ask team members to prepare the Daily Meeting
 
-### Backlog Refinement
+### Product Backlog Refinement
+
+The Product Backlog Refinement, also referred to as Product Backlog Grooming, is a method for keeping the backlog updated, clean and orderly.
+
+It's a good time to clarify details and make tasks satisfy the Definition of Ready.
+
+A good practice is to have 2 Sprints worth of work.
+
+#### Bad Practices
+
+- The tasks at the top of the Backlog have big estimations
+- Tasks not estimated
+- The Backlog contain items for longer than 2 month-ish
+- The DEV Team is not challenging the Product Owner on which could be the best User Stories
+- Long debates on each Product Item
+
+#### Tips
+
+- Use timers for each item, 5 minutes top. Give it an extra 3 min if everyone agrees
+- Question Stick. Pass an object to your Team mates. Who has it have to ask for Product Item details
+- Removed Product Items that have been longer than 2 month-ish
 
 ### Sprint Review
 
