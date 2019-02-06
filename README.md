@@ -21,7 +21,12 @@ _These events are specifically designed to enable critical transparency and insp
 
 ### 🏁 Sprint Planning
 
-The `Sprint planning` is a time boxed working session that lasts roughly 1 hour for every week of a sprint. In `Sprint Planning`, the entire team agrees to complete a set of `Product Backlog Items` known as `PBI`. This agreement defines the `Sprint Backlog` and is based on the team’s velocity or capacity and the length of the sprint.
+In the `Sprint planning` the `Team` decides what work will be done. _(`Product Backlog Items` known as `PBI`)_. This agreement defines the `Sprint Backlog` and is based on the team’s velocity or capacity and the length of the sprint. In the Sprint planning we'll answer a couple of questions:
+
+- What can be delivered in the Increment resulting from the upcoming Sprint?
+- How will the work needed to deliver the Increment be achieved?
+
+It's important to remember that **only the DEV Team can assess what it can accomplish over the upcoming Sprint.**
 
 #### 🙅 Bad Practices
 
@@ -44,7 +49,7 @@ The `Sprint planning` is a time boxed working session that lasts roughly 1 hour 
 
 ### 🗣️ Daily Meeting
 
-The `Daily Meeting` is normally time boxed to a maximum duration of 15 minutes, though this may need adjusting for larger teams. To keep the meeting short, any topic that starts a discussion is cut short, added to a "parking lot" list, and discussed in greater depth after the meeting, between the people affected by the issue.
+The `Daily Meeting` is a maximum duration of 15 minutes meeting, though this may need adjusting for larger teams. To keep the meeting short, any topic that starts a discussion is cut short, added to a "parking lot" list, and discussed in greater depth after the meeting, between the people affected by the issue.
 
 Each member should answer the questions: _What I did yesterday? What will I do today? Is there anything blocking me?_
 
@@ -92,9 +97,24 @@ A good practice is to have 2 Sprints worth of work.
 
 ### 🎉 Sprint Review
 
+The `Sprint Review` is celebrated in order to inspect the `Product Increment` and adapt the `Product Backlog` if needed.
+During the meeting, the `Scrum Team` explain to the `stakeholders` what has been accomplish, what hasn't and incidents or difficulties
+the team had and how they did overcome them.
+
 #### 🙅 Bad Practices
 
+- Selfish `Product Owner`. She/he says: I did
+- Cheating. Showing development with bugs or not finished
+- The `Team` doesn't explain challenges
+- It's called or treated as a DEMO
+- The `Product Owner` is presenting all the results, no one else talks on the `Team`
+
 #### 👨‍🏫 Tips
+
+- Each `Team Member` should present their User Stories
+- Everyone should explain challenges or problems
+- Use timers to do not exceed the time
+- The `Team` should **only present working software**
 
 ### 🛡️ Retrospective
 
