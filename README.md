@@ -1,8 +1,8 @@
-# Antipatterns of the Scrum Rituals
+# 🤷 Antipatterns of the Scrum Rituals
 
 The idea behind this `repository` is to **explain the SCRUM Rituals and its most common anti-patterns and how to avoid them**. I did an [Introduction to Agile Presentation](https://slides.com/victorribero/practical_agile/fullscreen#/7/14 "Scrum rituals anti-patterns") wherepart of the things I explain, these are included. I hope you enjoy it. 🤗
 
-## SCRUM Rituals
+## 🧙 SCRUM Rituals
 
 As the [official guide of Scrum](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf "Download guide") says:
 
