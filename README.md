@@ -4,6 +4,11 @@ The idea behind this `repository` is to **explain the SCRUM Rituals and its most
 
 ## SCRUM Rituals
 
+As the [official guide of Scrum](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf "Download guide") says:
+_Prescribed events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum._
+
+_These events are specifically designed to enable critical transparency and inspection. Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt._
+
 🏁 Sprint Planning
 
 🗣️ Daily Meeting
