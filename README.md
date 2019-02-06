@@ -14,7 +14,7 @@ The idea behind this repository is to explain the SCRUM Rituals and its most com
 
 The Sprint planning is a time boxed working session that lasts roughly 1 hour for every week of a sprint. In sprint planning, the entire team agrees to complete a set of product backlog items. This agreement defines the sprint backlog and is based on the team’s velocity or capacity and the length of the sprint.
 
-#### Bad Practices
+#### 🙅 Bad Practices
 
 - The team hasn't a clear Definition of Ready
 - You think A is asked for but they asked for a B
@@ -23,7 +23,7 @@ The Sprint planning is a time boxed working session that lasts roughly 1 hour fo
 - The Product Owner decides how much work
 - Not notifying vacations or absences
 
-#### Tips
+#### 👨‍🏫 Tips
 
 - Set a Definition of Ready
 - Ask as much as needed to have all details of what's asked for
@@ -39,7 +39,7 @@ The Daily Meeting is normally time boxed to a maximum duration of 15 minutes, th
 
 Each member should answer the questions: _What I did yesterday? What will I do today? Is there anything blocking me?_
 
-#### Bad Practices
+#### 🙅 Bad Practices
 
 - Off-topic conversations
 - Technical conversations finding solutions
@@ -49,7 +49,7 @@ Each member should answer the questions: _What I did yesterday? What will I do t
 - Monologs
 - Cluelessness
 
-#### Tips
+#### 👨‍🏫 Tips
 
 - Encourage every one to interrupt if needed
 - Cut things fast. Break wrong habits.
@@ -67,7 +67,7 @@ It's a good time to clarify details and make tasks satisfy the Definition of Rea
 
 A good practice is to have 2 Sprints worth of work.
 
-#### Bad Practices
+#### 🙅 Bad Practices
 
 - The tasks at the top of the Backlog have big estimations
 - Tasks not estimated
@@ -75,7 +75,7 @@ A good practice is to have 2 Sprints worth of work.
 - The DEV Team is not challenging the Product Owner on which could be the best User Stories
 - Long debates on each Product Item
 
-#### Tips
+#### 👨‍🏫 Tips
 
 - Use timers for each item, 5 minutes top. Give it an extra 3 min if everyone agrees
 - Question Stick. Pass an object to your Team mates. Who has it have to ask for Product Item details
@@ -83,4 +83,12 @@ A good practice is to have 2 Sprints worth of work.
 
 ### Sprint Review
 
+#### 🙅 Bad Practices
+
+#### 👨‍🏫 Tips
+
 ### Retrospective
+
+#### 🙅 Bad Practices
+
+#### 👨‍🏫 Tips
