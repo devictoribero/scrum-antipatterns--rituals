@@ -1,14 +1,20 @@
-# scrum-antipatterns--rituals
+# Antipatterns of the Scrum Rituals
 
 The idea behind this repository is to explain the SCRUM Rituals and its most common anti-patterns and how to avoid them.
 
 ## SCRUM Rituals
 
-- 🏁 Sprint Planning
-- 🗣️ Daily Meeting
-- 📝 Product Backlog Refinement
-- 🎉 Sprint Review
-- 🛡️ Retrospective
+🏁 Sprint Planning
+
+🗣️ Daily Meeting
+
+📝 Product Backlog Refinement
+
+🎉 Sprint Review
+
+🛡️ Retrospective
+
+
 
 ### 🏁 Sprint Planning
 
