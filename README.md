@@ -1,6 +1,6 @@
 # Antipatterns of the Scrum Rituals
 
-The idea behind this `repository` is to **explain the SCRUM Rituals and its most common anti-patterns and how to avoid them**.
+The idea behind this `repository` is to **explain the SCRUM Rituals and its most common anti-patterns and how to avoid them**. I did a [presentation](https://slides.com/victorribero/practical_agile/fullscreen#/7/14 "Scrum rituals anti-patterns") explaining the same. I hope you enjoy it. 🤗
 
 ## SCRUM Rituals
 
