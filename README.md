@@ -4,11 +4,15 @@ The idea behind this repository is to explain the SCRUM Rituals and its most com
 
 ## SCRUM Rituals
 
-- 🏁 Sprint Planning
-- 🗣️ Daily Meeting
-- 📝 Product Backlog Refinement
-- 🎉 Sprint Review
-- 🛡️ Retrospective
+🏁 Sprint Planning
+
+🗣️ Daily Meeting
+
+📝 Product Backlog Refinement
+
+🎉 Sprint Review
+
+🛡️ Retrospective
 
 ### 🏁 Sprint Planning
 
