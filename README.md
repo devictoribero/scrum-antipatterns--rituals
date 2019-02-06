@@ -89,6 +89,23 @@ A good practice is to have 2 Sprints worth of work.
 
 ### 🛡️ Retrospective
 
+The `Retrospective` is an opportunity for the Team to inspect itself and create a plan for the improvements with the Actions derived from this meeting. The idea of the `Retrospective` is to discuss _what went well, what could be improved_ and _what will we commit to improve in the next sprint_.
+
 #### 🙅 Bad Practices
 
+- Taking as personals some comments
+- A Team Member explains to an outsider what happens in the retrospectives
+- The Actions are not assigned to anyone at the end of the `Retrospective` (no owners)
+- Managers/outsiders are coming to the meeting
+- The Team doesn't review past actions
+- Discussion dominated by one or two people
+
 #### 👨‍🏫 Tips
+
+- Take Retrospective seriously
+- Be honest with your workmates. Everyone should understand we are in the meeting to improve
+- Encourage people to participate. Make everyone speak and give constructive feedback
+- If there are no things to improve as a team, ask individually. _What would you help go faster? What don't you like?_
+- To make the opinions more obvious, materialize them using post-it's or writing in a board
+- Do the DOT Voting practice to decide which actions the team will do the next Sprint.
+- Assign owners to this actions
