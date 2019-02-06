@@ -4,13 +4,13 @@ The idea behind this repository is to explain the SCRUM Rituals and its most com
 
 ## SCRUM Rituals
 
-- Sprint Planning
-- Daily Meeting
-- Product Backlog Refinement
-- Sprint Review
-- Retrospective
+- 🏁 Sprint Planning
+- 🗣️ Daily Meeting
+- 📝 Product Backlog Refinement
+- 🎉 Sprint Review
+- 🛡️ Retrospective
 
-### Sprint Planning
+### 🏁 Sprint Planning
 
 The Sprint planning is a time boxed working session that lasts roughly 1 hour for every week of a sprint. In sprint planning, the entire team agrees to complete a set of product backlog items. This agreement defines the sprint backlog and is based on the team’s velocity or capacity and the length of the sprint.
 
@@ -33,7 +33,7 @@ The Sprint planning is a time boxed working session that lasts roughly 1 hour fo
 - Be clear with your capacity
 - Notify your vacations or absences so the capacity can be more accurate
 
-### Daily Meeting
+### 🗣️ Daily Meeting
 
 The Daily Meeting is normally time boxed to a maximum duration of 15 minutes, though this may need adjusting for larger teams. To keep the meeting short, any topic that starts a discussion is cut short, added to a "parking lot" list, and discussed in greater depth after the meeting, between the people affected by the issue.
 
@@ -59,7 +59,7 @@ Each member should answer the questions: _What I did yesterday? What will I do t
 - If a Team Member usually talks too much, time box each one
 - Ask team members to prepare the Daily Meeting
 
-### Product Backlog Refinement
+### 📝 Product Backlog Refinement
 
 The Product Backlog Refinement, also referred to as Product Backlog Grooming, is a method for keeping the backlog updated, clean and orderly.
 
@@ -81,13 +81,13 @@ A good practice is to have 2 Sprints worth of work.
 - Question Stick. Pass an object to your Team mates. Who has it have to ask for Product Item details
 - Removed Product Items that have been longer than 2 month-ish
 
-### Sprint Review
+### 🎉 Sprint Review
 
 #### 🙅 Bad Practices
 
 #### 👨‍🏫 Tips
 
-### Retrospective
+### 🛡️ Retrospective
 
 #### 🙅 Bad Practices
 
