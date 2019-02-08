@@ -97,8 +97,7 @@ A good practice is to have 2 Sprints worth of work.
 ### 🎉 Sprint Review
 
 The `Sprint Review` is celebrated in order to inspect the `Product Increment` and adapt the `Product Backlog` if needed.
-During the meeting, the `Scrum Team` explain to the `stakeholders` what has been accomplish, what hasn't and incidents or difficulties
-the team had and how they did overcome them.
+During the meeting, the `Scrum Team` explain to the `stakeholders` what has been accomplish, what hasn't and incidents or difficulties the team had and how they did overcome them.
 
 #### 🙅 Bad Practices
 
