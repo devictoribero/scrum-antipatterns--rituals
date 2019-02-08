@@ -21,10 +21,9 @@ _These events are specifically designed to enable critical transparency and insp
 
 ### 🏁 Sprint Planning
 
-In the `Sprint planning` the `Team` decides what work will be done. _(`Product Backlog Items` known as `PBI`)_. This agreement defines the `Sprint Backlog` and is based on the team’s velocity or capacity and the length of the sprint. In the Sprint planning we'll answer a couple of questions:
+In the `Sprint planning` the `Team` decides what work will be done. _(`Product Backlog Items` known as `PBI`)_. This agreement defines the `Sprint Backlog` and is based on the team’s velocity or capacity and the length of the sprint. In the `Sprint planning` we'll answer the next question:
 
-- What can be delivered in the Increment resulting from the upcoming Sprint?
-- How will the work needed to deliver the Increment be achieved?
+- What can be delivered in the Increment resulting from the upcoming `Sprint`?
 
 It's important to remember that **only the DEV Team can assess what it can accomplish over the upcoming Sprint.**
 
@@ -136,5 +135,5 @@ The `Retrospective` is an opportunity for the `Team` to inspect itself and creat
 - Encourage people to participate. Make everyone speak and give constructive feedback
 - If there are no things to improve as a team, ask individually. _What would you help go faster? What don't you like?_
 - To make the opinions more obvious, materialize them using post-it's or writing in a board
-- Do the DOT Voting practice to decide which actions the team will do the next Sprint.
+- Do the DOT Voting practice to decide which actions the team will do the next `Sprint`
 - Assign owners to this actions
